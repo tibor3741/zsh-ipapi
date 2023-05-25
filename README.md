@@ -2,7 +2,7 @@
 
 Very simple ZSH function for retrieving and displaying informations about IP addresses.
 
-![Screenshot](https://github.com/libDarkstreet/zsh-ipapi/assets/55440418/b3fea1e9-92b7-41cc-971a-d2f9f1705114)
+![Screenshot](https://github.com/libDarkstreet/zsh-ipapi/assets/55440418/bb7afa22-2048-46e0-a652-7a69e6859cf1)
 
 ## Description 
 
