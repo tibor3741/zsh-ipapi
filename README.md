@@ -28,5 +28,5 @@ Replace <ip_address> with the IP address you want to retrieve information for.
 ## Dependencies
 
 Curl
-
 JQ
+Ncurses-utils (Tput)
